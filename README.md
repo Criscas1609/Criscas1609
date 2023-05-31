@@ -1,7 +1,7 @@
 ### Hola a todos! 👋
 # Sobre mí
 
-¡Hola! Soy Cristhian Camilo Correa Ceballos, un estudiante de ingeniería de software de tercer semestre. Mi amor por la tecnología y el deseo de crear soluciones innovadoras me llevaron a embarcarme en este emocionante viaje de aprendizaje.
+¡Hola! Soy Cristhian Camilo Correa Ceballos, estudiante de ingeniería de software. Mi amor por la tecnología y el deseo de crear soluciones innovadoras me llevaron a embarcarme en este emocionante viaje de aprendizaje.
 
 Durante mis primeros dos semestres, he adquirido una sólida base en los fundamentos de la programación y la ingeniería de software. He trabajado con lenguajes como Java y Python, he tenido la oportunidad de desarrollar proyectos pequeños pero significativos. Estos proyectos me han permitido poner en práctica los conceptos teóricos que he aprendido y me han dado una visión realista de lo que implica desarrollar software en un entorno colaborativo.
 
