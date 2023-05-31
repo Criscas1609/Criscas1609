@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola a todos! 👋
 # Sobre mí
 
 ¡Hola! Soy Cristhian Camilo Correa Ceballos, un estudiante de ingeniería de software de tercer semestre. Mi amor por la tecnología y el deseo de crear soluciones innovadoras me llevaron a embarcarme en este emocionante viaje de aprendizaje.
@@ -14,3 +14,8 @@ Actualmente, estoy explorando diferentes áreas de la ingeniería de software pa
 Aparte de mis estudios, también estoy desarrollando habilidades de trabajo en equipo y colaboración. Creo firmemente en la importancia de la comunicación efectiva y la colaboración para lograr resultados sobresalientes en proyectos de software. He participado en varios proyectos de equipo, donde he aprendido a trabajar en conjunto con otros desarrolladores, compartir ideas y resolver problemas de manera eficiente.
 
 Gracias por visitar mi perfil de GitHub y espero tener la oportunidad de colaborar contigo pronto!
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&username=Criscas1609" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false&username=Criscas1609" height="150" alt="languages graph"  />
+</div></div>
