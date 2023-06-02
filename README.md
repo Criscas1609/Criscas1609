@@ -1,4 +1,11 @@
-### Hola a todos! 👋
+<div align="center">
+  <h1>Hola a todos! 👋</h1>
+  </div>
+  <br>
+<div align="center">
+  <img src="https://github.com/Criscas1609/Criscas1609/assets/102967338/adccb406-01c3-4aca-9173-181523e9e54f" style="width: auto; height: auto;">
+</div>
+
 # Sobre mí
 
 ¡Hola! Soy Cristhian Camilo Correa Ceballos, estudiante de ingeniería de software. Mi amor por la tecnología y el deseo de crear soluciones innovadoras me llevaron a embarcarme en este emocionante viaje de aprendizaje.
