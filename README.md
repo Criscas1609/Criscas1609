@@ -5,12 +5,25 @@
 <div align="center">
   <img src="https://github.com/Criscas1609/Criscas1609/assets/102967338/adccb406-01c3-4aca-9173-181523e9e54f" style="width: auto; height: auto;">
 </div>
+<br>
 
-# Sobre mí
+<h2>Sobre mí</h2>
 
-¡Hola! Soy Cristhian Camilo Correa Ceballos, estudiante de ingeniería de software. Mi amor por la tecnología y el deseo de crear soluciones innovadoras me llevaron a embarcarme en este emocionante viaje de aprendizaje.
+<table>
+  <tr>
+    <td width="400px">
+    <p>¡Hola! Soy Cristhian Camilo Correa Ceballos, estudiante de ingeniería de software. Mi amor por la tecnología y el deseo de crear soluciones innovadoras me llevaron a embarcarme en este emocionante viaje de aprendizaje.
 
-Durante mis primeros dos semestres, he adquirido una sólida base en los fundamentos de la programación y la ingeniería de software. He trabajado con lenguajes como Java y Python, he tenido la oportunidad de desarrollar proyectos pequeños pero significativos. Estos proyectos me han permitido poner en práctica los conceptos teóricos que he aprendido y me han dado una visión realista de lo que implica desarrollar software en un entorno colaborativo.
+Durante mis primeros dos semestres, he adquirido una sólida base en los fundamentos de la programación y la ingeniería de software. He trabajado con lenguajes como Java y Python, he tenido la oportunidad de desarrollar proyectos pequeños pero significativos. Estos proyectos me han permitido poner en práctica los conceptos teóricos que he aprendido y me han dado una visión realista de lo que implica desarrollar software en un entorno colaborativo.</p>
+    </td>
+    <td>
+      <img src="https://github.com/Criscas1609/Criscas1609/assets/102967338/adccb406-01c3-4aca-9173-181523e9e54f" style="width: 300px; height: 300px;">
+    </td>
+  </tr>
+</table>
+
+
+
 
 ## Intereses
 
