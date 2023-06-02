@@ -11,13 +11,17 @@
 Durante mis primeros dos semestres, he adquirido una sólida base en los fundamentos de la programación y la ingeniería de software. He trabajado con lenguajes como Java y Python, he tenido la oportunidad de desarrollar proyectos pequeños pero significativos. Estos proyectos me han permitido poner en práctica los conceptos teóricos que he aprendido y me han dado una visión realista de lo que implica desarrollar software en un entorno colaborativo.</p>
     </td>
     <td width="500px">
-      <img src="https://github.com/Criscas1609/Criscas1609/assets/102967338/26e1953c-8294-4369-ad36-89f7218226f5" style="width: 500px; height: 500px;">
-    </td>
+      <div align="center">
+      <img src="https://github.com/Criscas1609/Criscas1609/assets/102967338/26e1953c-8294-4369-ad36-89f7218226f5" style="width: 450px; height: 400px;">
+      </div>
+        </td>
   </tr>
    <tr>
     <td width="500px">
-     <img src="https://user-images.githubusercontent.com/102967338/242783584-979b2a50-3686-4776-8de6-cea802e6ffda.gif" style="width: 500px; height: 500px;">
-    </td>
+      <div align="center">
+     <img src="https://user-images.githubusercontent.com/102967338/242783584-979b2a50-3686-4776-8de6-cea802e6ffda.gif" style="width: 450px; height: 400px;">
+      </div>
+        </td>
     <td width="500px">
        <div align="center">
         <p style="text-align: justify;">Intereses y Habilidades</p>
