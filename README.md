@@ -6,9 +6,9 @@
         <p style="text-align: justify;">Sobre mí</p>
       </div>
       <br>
-    <p style="text-align: justify;">¡Hola! Soy Cristhian Camilo Correa Ceballos, estudiante de ingeniería de software. Mi amor por la tecnología y el deseo de crear soluciones innovadoras me llevaron a embarcarme en este emocionante viaje de aprendizaje.
+    <p style="text-align: justify;">¡Hola! Soy Cristhian Correa, Ingeniero de Software.
 
-Durante mis primeros dos semestres, he adquirido una sólida base en los fundamentos de la programación y la ingeniería de software. He trabajado con lenguajes como Java y Python, he tenido la oportunidad de desarrollar proyectos pequeños pero significativos. Estos proyectos me han permitido poner en práctica los conceptos teóricos que he aprendido y me han dado una visión realista de lo que implica desarrollar software en un entorno colaborativo.</p>
+He trabajado con lenguajes como Java y Python, he tenido la oportunidad de desarrollar proyectos significativos. Estos proyectos me han permitido poner en práctica los conceptos teóricos que he aprendido y me han dado una visión realista de lo que implica desarrollar software en un entorno colaborativo.</p>
     </td>
     <td width="500px">
       <div align="center">
@@ -27,8 +27,7 @@ Durante mis primeros dos semestres, he adquirido una sólida base en los fundame
         <p style="text-align: justify;">Intereses y Habilidades</p>
       </div>
       <p style="text-align: justify;">Actualmente, estoy explorando diferentes áreas de la ingeniería de software para ampliar mis conocimientos. Estoy
-        particularmente interesado en el desarrollo web, de escritorio y la inteligencia artificial. Estoy aprendiendo Spring Boot para construir sitios web
-        interactivos y receptivos.
+        particularmente interesado en el desarrollo web, de escritorio y la inteligencia artificial. E
       </p>
       <p style="text-align: justify;">
         Aparte de mis estudios, también estoy desarrollando habilidades de trabajo en equipo y colaboración. Creo firmemente en la
