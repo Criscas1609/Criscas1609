@@ -27,7 +27,7 @@ He trabajado con lenguajes como Java y Python, he tenido la oportunidad de desar
         <p style="text-align: justify;">Intereses y Habilidades</p>
       </div>
       <p style="text-align: justify;">Actualmente, estoy explorando diferentes áreas de la ingeniería de software para ampliar mis conocimientos. Estoy
-        particularmente interesado en el desarrollo web, de escritorio y la inteligencia artificial. E
+        particularmente interesado en el desarrollo web, de escritorio y la inteligencia artificial.
       </p>
       <p style="text-align: justify;">
         Aparte de mis estudios, también estoy desarrollando habilidades de trabajo en equipo y colaboración. Creo firmemente en la
